@@ -1,8 +1,8 @@
 # Carillon
 
-Made by Team 1 of CS350
+## Members
 
-### Members
+Made by Team 1 of CS350
 
 변경호 (20170319)
 
